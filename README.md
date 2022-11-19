@@ -1,6 +1,6 @@
 # Rust Dashboard
 
-> Open-source admin dashboard powered by [Rust](https://www.rust-lang.org/).
+Open-source admin dashboard powered by [Rust](https://www.rust-lang.org/) on top of [Argon Design](https://www.creative-tim.com/product/argon-dashboard?AFFILIATE=128200) by `Creative-Tim`.
 
 <br />
 
